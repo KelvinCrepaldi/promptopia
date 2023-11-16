@@ -1,4 +1,4 @@
-const PromptCard = () => {
+const PromptCard = ({ handleTagClick }: any) => {
   return <div>PromptCard</div>;
 };
 
